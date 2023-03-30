@@ -1,0 +1,2 @@
+# minimof
+minimo project
